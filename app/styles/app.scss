@@ -1,0 +1,15 @@
+$margin-big: 3rem;
+$margin-med: 2rem;
+$margin-small: 1rem;
+
+.page-title {
+    margin: $margin-big 0;
+    
+}
+p {
+    color: #777;
+}
+
+.button {
+    margin: $margin-big $margin-small;
+}
